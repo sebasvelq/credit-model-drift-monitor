@@ -1,0 +1,5 @@
+evidently
+pandas
+boto3
+pyarrow==17.0.0
+statsmodels==0.14.4

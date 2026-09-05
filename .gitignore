@@ -1,0 +1,22 @@
+# Datos de Kaggle y generados (no versionar)
+data/*.csv
+data/*.xls
+data/*.html
+data/GiveMeSomeCredit/
+data/production_batches/
+
+# Credenciales - NUNCA subir
+*.pem
+.aws/
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+data/GiveMeSomeCredit.zip
